@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "javascript-lp-solver": "^0.4.5"
+  },
+  "scripts": {
+    "start": "node script.js"
   }
 }
